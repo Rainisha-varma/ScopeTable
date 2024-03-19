@@ -1,1 +1,2 @@
 # ScopeTable
+ScopeTable is a program designed in C built using linked lists and aimed at managing nested scopes and symbol tables within a compiler framework. It offers simple functionality for inserting variables with associated values, looking up variable values across scopes, and finalizing scopes as needed. With a straightforward interface and efficient hash function for symbol distribution, this tool aids in organized symbol management within compiler processes. Users can easily integrate it into their projects for streamlined scope handling and symbol table management.
